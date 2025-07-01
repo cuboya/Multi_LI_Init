@@ -1,0 +1,2 @@
+LiDAR_IMU_Init
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/cubo/catkin_multiLI_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cubo/catkin_multiLI_ws/install -G Unix Makefiles
